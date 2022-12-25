@@ -1,9 +1,9 @@
 # Week - 3 : Homework - 1
 
-=> İki viewcontroller olan bir uygulama yapıyoruz
+=> İki viewcontroller olan bir uygulama olusturuldu.
 
-=> İlk viewcontroller verileri gösteren ikinci VC verilerin girildiği ekran 
+=> İlk viewcontroller verileri gösterir.. Ikinci VC verilerin girildiği ekrandir. 
 
-=> ikinci VC den ilk VC’a veriler 3 Farklı yol ile aktarılabilir.
+=> ikinci VC den ilk VC’a veriler closure yolu ile aktarıldi.
 
-=> protocol, notification center, closure
+
